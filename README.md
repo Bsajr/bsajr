@@ -1,4 +1,4 @@
-### Olá! Eu sou o Pedro Barbosa 
+### Olá!  Me chamo Pedro Barbosa  🙋🏻‍♂️
 - 🔭 Atualmente trabalho em ecommerce 
 - 🌱 Estudando desenvolvimento web | Trybe
 - 📫 Contate-me no email: fariaspedro05@gmail.com
