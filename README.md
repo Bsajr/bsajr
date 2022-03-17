@@ -1,5 +1,5 @@
-### Olá!  Me chamo Pedro Barbosa  🙋🏻‍♂️
-- 🔭 Atualmente trabalho em ecommerce 
+### Olá!  Bem vindo(a) meu perfil do Github  🙋🏻‍♂️
+
 - 🌱 Estudando desenvolvimento web | Trybe
 - 📫 Contate-me no email: fariaspedro05@gmail.com
 - 😄 Pronouns: ele/dele
