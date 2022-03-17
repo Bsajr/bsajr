@@ -1,4 +1,4 @@
-### Olá!  Bem vindo(a) meu perfil do Github  🙋🏻‍♂️
+### Olá!  Me chamo Pedro Barbosa! 🙋🏻‍♂️
 
 - 🌱 Estudando desenvolvimento web | Trybe
 - 📫 Contate-me no email: fariaspedro05@gmail.com
