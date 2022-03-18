@@ -25,3 +25,7 @@
   <a href = "mailto:fariaspedro05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedrobarbosa05/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div> 
+  <div>
+    <img align="center" alt="Pedro-Python" height="100px" width="300px" src="https://lh3.googleusercontent.com/WK5trHZO7xYn2rYOJ466FzpuFOALuoiEtafExHjtmA4zViAQaP-3vslCSRz8Ehzj_8ZbwkoUfYz_Z1GGZTBMUI-kAeHTYTZY4lHznVBqEZ4i2tIHRHdSuXF35-5KGpJYRs1suRUvZRXq8YISTdiiOWna6WWOIuSO3h5UfwkHSE7rRFo-piMu8D_nJNyrfB54oO2tUGKbVx-jXJNOGJ4ldpMeRnG_OFjOE5WcFom96CtjPWw5rsSw91eh0Lbpr62RJJdHNS9S_67zJ_cUdPtHRxRwUAZz-nqDJ2cjo7UDUV2S7zMe6879sWFl0P_MwsRcvKEBrBh_3yvLtCGBGcm4qmX14tq12WCnir6WMDzkS5h6pUnJ0yjCJqGLDGcZlo0vgnaksX6UULgiuMaCCijdIqlEgrglOZSN_Xfv1njcVEn1haV0Nn_Xe_zpd2knhfQZsvz9CHkApcbbdyFEfB-XTzA7pBkGskvFbimjw8k0dljLIWc55Wevlq-uhMjPYsYDOfzKPnGaICTpxwLoAYvE9XdLeNRcD2nS8pLwh55ZzUGBOkmNEHnyUEjv-Gp-N1XujnMGbqm6hLJtl-bi-E6M4PU5lZmXbEh4mEcJKer7tUX7MWUyFFf9EQOzmRHLrKAPIb3FW0PCO-Gn6LGOxeKbUAWy1zWEx4pTwKSjHVo82nIKLWIRBqFiYUfKVByQWwiMmxHUPAn1gPpMwE4WgrNp25MH=w1918-h382-no?authuser=0">
+  
+  </div>
