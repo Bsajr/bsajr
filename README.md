@@ -5,9 +5,8 @@
  
 
 
-<p> Estou em constante processo de desenvolvimento das minhas Hard Skills e Soft Skills para me tornar um desenvolvedor web full stack Júnior.
-Não será uma jornada fácil, tenho certeza, porém estou entusiasmado, e venho me esforçando dia pós dia!
-</p>
+### Bem vindo(a) ao meu perfil!<br>
+Atualmente sou estudante na area de desenvolvimento web e estou dando meus primeiros passos nesse universo maravilhoso e desafiador. Entretanto estou muito entusiasmado com os novos conhecimentos e as infinitas possibilidades que o mundo da programação oferece.
 <br>
 <br>
 <br>
