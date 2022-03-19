@@ -1,7 +1,7 @@
 
 ## Olá, eu sou o Pedro Barbosa, estudante de desenvolvimento web | TRYBE
 
- <img align="right" alt="Pedro-gif" height="150px" width="150px"  src="https://lh3.googleusercontent.com/qAaZBBG6fV35zdEbVl2aHpv8Cm6yoqmXrIYwe4RTsCkDae5Af27uCJyUTfDhXkF1qMvKucl3foAo-cyZkBAzBGC65fAux_t2Udw7oBQgJKFFpdj5QVKm5w9AD1GTpBQUFQDmf25WF7RUk6HaZgDMYkekEWz7VwqrPKCJVlrQtLUleFpCnSwBlpI84NM85EFzM2mjeXwh6FTFhniS9pREWBgVu7-h3IhrCgS3b0kCt6MCm3CcZ87S2SGExHq3oEnpV2K3Jcic9ZNkl4r4USO4MumaDgyikA5mCw-V3_yH6fmDm0BxPH7ElImysQ_QWUZGxMmw8FtnH6nPVZsDYLFxCwRGfsTCo06PDLf0KAS_u0B1v95udKgizOoksOOCiCd8MyiW0dVoBMNYzmkVnQZF64SK-stRbJLinCevvanqJ0nGYHUoT2iRVszNMXX4MaDo2wveqyT0EM7wJvTpgcYHvQJAw4voCq3R8I3JfpC_WLXs5bRhWfFT2uxKKUq-s4bv9_4oVhL8RwE1LH8Moj1bHethO_knKHDeFasm1oCL09gkudbBD55UUwR5YRrHiwo7ND0HJYDPUSa5jSIvN6Twn69tXwvMUbmAUzKuvemLzyx5HRd7JF8xN1q_azRbRJGdvC3EBv9r_UuccITg2cEDb1SM0eiByfa9lIEDZEkmpUwuLySyy8yUukIK-qsQ0mIJ2spL_9JINs9CZpEFjmSwOY_8tORPw3eJE6KfYx1BwdxU_BDjIJKAZUu3v6olwARQHe4J8aDNDqvlcVaU0JSjtkQtA8_GnDTKU79M=s500-no?authuser=0">
+ <img align="right" alt="Pedro-gif" height="150px" width="150px"  src="https://user-images.githubusercontent.com/86358350/159125324-6c2b41e6-2496-4396-9d77-95e65326956a.gif">
  
 
 
@@ -40,7 +40,6 @@ Atualmente sou estudante na area de desenvolvimento web e estou dando meus prime
  
  ![](https://visitor-badge.glitch.me/badge?page_id=bsajr)
  
-  
-<div>
-  <img align="center" alt="foto-capa" height="100%" width="100%" src= "https://lh3.googleusercontent.com/WGBTRS_bH5VVmGbQ7Zdx0Z82jBIfExRlloshWIeseNx03c6GrrSWyESDC8u55M02NWaGuC_waVuqTbU6tKSNm2rtqoI7b6I-t1_OZtejcnAOehcchcC2Oe_ZBWI5DZPhuKibofXYANoqd1DXvhoJM8lVii76yINxB_FqnZPLk4ctDk9m4asc_PzRXIo6NawKKTk8st2kDtvxRh66QC_6Zdm4IZGutiScuN3CbOfoEf2_LMgVXrXNxks17bmXWjIo0DG3aEgxZYhkyyDmTjQRIA9YvteBod97yZbyTT_Lin73Tt9UIamZ5yBOWRZErVm05osqsAX6dKUALrRNbMicEPaFnPRbzC9ksYS8p6OXmfsDLrcceX0FFz-DTwebnn_1a0MnFZOGydY-9QuCJxdKBVx1_XiOU-F3flx9ALJT2sJZSl1U-2DnB46il2Nv6GeMKHUGAZn8Lzrmm7eI_FdCTtVrVvAAgb4Iz5XJXsfYlKHRVw0Ybj3Vq1DNQ5UDlJE11mFOZibLLjOw5RqU6D2vQgz6tZKlVawcftCLCrLf5y2QQButiDGEsWx60GEvbEzMRSa9Yn2v5Am5nGCGqaaqcAY7w6BiuG9v5LUPsWBeqz3XBheTe0U2qwsSgC3CC141NZpvlWXdZ8q5gM3wX-zQBmCGiAHcrG-A-xf9Z_ZLl_f1IZMfkyNeugPHz9sI1kuGxR62xd5_JSTzFuBUqxGkBJmkfEURJCMmzqBnEfUEvhlmhC8rRsp2aAaHPW-5UX8m5NJ0VmvVyvLWuXSexvUd2tRx-zXbWkL2ZWVN=w1183-h481-no?authuser=0">
+<div align="center">
+  <img alt="foto-capa" height="100%" width="100%" src= "https://user-images.githubusercontent.com/86358350/159125281-9b09e86e-8e57-415a-8c50-4aa008f8d717.png">
 </div>
