@@ -1,12 +1,9 @@
 
 ## Olá, eu sou o Pedro Barbosa, estudante de desenvolvimento web | TRYBE
-Estou em constante processo de desenvolvimento das minhas Hard Skills e Soft Skills<br>
-para me tornar um desenvolvedor web full stack Júnior.<br>
-Não será uma jornada fácil, tenho certeza, porém estou entusiasmado, e venho me<br> esforçando dia pós dia!
+Estou em constante processo de desenvolvimento das minhas Hard Skills e Soft Skills para me tornar um desenvolvedor<br> web full stack Júnior.
+Não será uma jornada fácil, tenho certeza, porém estou entusiasmado, e venho me esforçando dia<br> pós dia!
 
-<div>
-<img align='right' alt="pedro-gif src="https://64.media.tumblr.com/9b919a61c6f91cddc3afcad2dc101ce0/tumblr_o7vrxl8Uk11runoqyo2_540.gifv">
-</div>  
+ <img align="right" alt="Pedro-gif" height="300px" width="300px" src="https://lh3.googleusercontent.com/qAaZBBG6fV35zdEbVl2aHpv8Cm6yoqmXrIYwe4RTsCkDae5Af27uCJyUTfDhXkF1qMvKucl3foAo-cyZkBAzBGC65fAux_t2Udw7oBQgJKFFpdj5QVKm5w9AD1GTpBQUFQDmf25WF7RUk6HaZgDMYkekEWz7VwqrPKCJVlrQtLUleFpCnSwBlpI84NM85EFzM2mjeXwh6FTFhniS9pREWBgVu7-h3IhrCgS3b0kCt6MCm3CcZ87S2SGExHq3oEnpV2K3Jcic9ZNkl4r4USO4MumaDgyikA5mCw-V3_yH6fmDm0BxPH7ElImysQ_QWUZGxMmw8FtnH6nPVZsDYLFxCwRGfsTCo06PDLf0KAS_u0B1v95udKgizOoksOOCiCd8MyiW0dVoBMNYzmkVnQZF64SK-stRbJLinCevvanqJ0nGYHUoT2iRVszNMXX4MaDo2wveqyT0EM7wJvTpgcYHvQJAw4voCq3R8I3JfpC_WLXs5bRhWfFT2uxKKUq-s4bv9_4oVhL8RwE1LH8Moj1bHethO_knKHDeFasm1oCL09gkudbBD55UUwR5YRrHiwo7ND0HJYDPUSa5jSIvN6Twn69tXwvMUbmAUzKuvemLzyx5HRd7JF8xN1q_azRbRJGdvC3EBv9r_UuccITg2cEDb1SM0eiByfa9lIEDZEkmpUwuLySyy8yUukIK-qsQ0mIJ2spL_9JINs9CZpEFjmSwOY_8tORPw3eJE6KfYx1BwdxU_BDjIJKAZUu3v6olwARQHe4J8aDNDqvlcVaU0JSjtkQtA8_GnDTKU79M=s500-no?authuser=0">
                                                                                                                                         
  <hr>
 <div align="center">
