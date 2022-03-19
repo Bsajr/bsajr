@@ -1,8 +1,13 @@
 
 ## Olá, eu sou o Pedro Barbosa, estudante de desenvolvimento web | TRYBE
-Estou em constante processo de desenvolvimento das minhas Hard Skills e Soft Skills para me tornar um desenvolvedor web full stack Júnior. 
-Não será uma jornada fácil, tenho certeza, porém estou entusiasmado, e venho me esforçando dia pós dia!
+Estou em constante processo de desenvolvimento das minhas Hard Skills e Soft Skills<br>
+para me tornar um desenvolvedor web full stack Júnior.<br>
+Não será uma jornada fácil, tenho certeza, porém estou entusiasmado, e venho me<br> esforçando dia pós dia!
 
+<div>
+<img align='right' alt="pedro-gif src="https://64.media.tumblr.com/9b919a61c6f91cddc3afcad2dc101ce0/tumblr_o7vrxl8Uk11runoqyo2_540.gifv">
+</div>  
+                                                                                                                                        
  <hr>
 <div align="center">
   <a href="https://github.com/Bsajr">
