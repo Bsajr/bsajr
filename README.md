@@ -1,7 +1,5 @@
-### Olá!  Me chamo Pedro Barbosa! 🙋🏻‍♂️
-
-- 🧑🏻‍💻 Estudando desenvolvimento web | Trybe
-- 📫 Contate-me no email: fariaspedro05@gmail.com
+## Olá, eu sou o Pedro Barbosa, estudante de desenvolvimento web | TRYBE
+ 
 
 <div align="center">
   <a href="https://github.com/Bsajr">
