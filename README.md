@@ -41,5 +41,5 @@ Atualmente sou estudante na area de desenvolvimento web e estou dando meus prime
  ![](https://visitor-badge.glitch.me/badge?page_id=bsajr)
  
 <div align="center">
-  <img alt="foto-capa" height="100%" width="100%" src= "https://user-images.githubusercontent.com/86358350/159125281-9b09e86e-8e57-415a-8c50-4aa008f8d717.png">
+  <img alt="foto-capa" height="100%" width="100%" src= "https://user-images.githubusercontent.com/86358350/159131823-24a02741-cf8e-46f1-af38-9e05b69d2c55.svg">
 </div>
