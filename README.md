@@ -1,8 +1,6 @@
-
-## Olá, eu sou o Pedro Barbosa, estudante de desenvolvimento web | TRYBE
-
- <img align="right" alt="Pedro-gif" height="150px" width="150px"  src="https://user-images.githubusercontent.com/86358350/159125324-6c2b41e6-2496-4396-9d77-95e65326956a.gif">
- 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=0191255&size=40&center=true&vCenter=true&width=400&height=54&lines=Hi!+I'm+Pedro!💻)
+<a href="https://www.linkedin.com/in/pedrobarbosa05/" target="_blank">
+ <img align="right" src="https://user-images.githubusercontent.com/86358350/159125324-6c2b41e6-2496-4396-9d77-95e65326956a.gif" width="150px" height="150px"></a><br/>
 
 
 ### Bem vindo(a) ao meu perfil!<br>
