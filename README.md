@@ -4,10 +4,6 @@
 <img align="center" src="https://user-images.githubusercontent.com/86358350/159125324-6c2b41e6-2496-4396-9d77-95e65326956a.gif" width="150px" height="150px"></a><br/>
 </div>
 <br>
-Atualmente sou estudante na area de desenvolvimento web e estou dando meus primeiros passos nesse universo maravilhoso e desafiador. Entretanto estou muito entusiasmado com os novos conhecimentos e as infinitas possibilidades que o mundo da programação oferece.
-<br>
-<br>
-<br>
                                                                                                                                      
  <hr>
 <div align="center">
