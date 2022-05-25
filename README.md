@@ -1,8 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif"&color=0141255&size=40&center=true&vCenter=true&width=400&height=54&lines=Hi!+I'm+Pedro!💻)
- <img align="right" src="https://user-images.githubusercontent.com/86358350/159125324-6c2b41e6-2496-4396-9d77-95e65326956a.gif" width="150px" height="150px"></a><br/>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif"&color=0141255&size=40&center=true&vCenter=true&width=1000px&height=40&lines=Welcome+to+my+profile!)
 
-
-### Bem vindo(a) ao meu perfil!<br>
+<div align='center'>
+<img align="center" src="https://user-images.githubusercontent.com/86358350/159125324-6c2b41e6-2496-4396-9d77-95e65326956a.gif" width="150px" height="150px"></a><br/>
+</div>
+<br>
 Atualmente sou estudante na area de desenvolvimento web e estou dando meus primeiros passos nesse universo maravilhoso e desafiador. Entretanto estou muito entusiasmado com os novos conhecimentos e as infinitas possibilidades que o mundo da programação oferece.
 <br>
 <br>
