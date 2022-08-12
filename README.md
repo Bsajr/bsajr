@@ -1,8 +1,11 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif"&color=0141255&size=40&center=true&vCenter=true&width=1000px&height=40&lines=Welcome+to+my+profile!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=serif"&color=0141255&size=30&center=true&vCenter=true&width=1000px&height=40&lines=Welcome+to+my+profile!)
 
 <div align='center'>
 <img align="center" src="https://user-images.githubusercontent.com/86358350/159125324-6c2b41e6-2496-4396-9d77-95e65326956a.gif" width="150px" height="150px"></a><br/>
 </div>
+<p>Olá, me chamo Pedro Barbosa!
+ 
+Atualmente sou estudante de Desenvolvimento Web Full-Stack na Trybe, onde venho obtendo experiência em projetos, utilizando tecnologias de desenvolvimento web como: Git, GitHub, HTML, CSS, JavaScript, Jest, React Testing Library, React, Redux, Context API, React Hooks além das metodologias Ágeis.</p>
 <br>
                                                                                                                                      
  <hr>
