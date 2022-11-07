@@ -4,9 +4,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/86358350/159125324-6c2b41e6-2496-4396-9d77-95e65326956a.gif" width="150px" height="150px"></a><br/>
 </div>
 <p>Olá, me chamo Pedro Barbosa!
- 
-Olá, me chamo Pedro Barbosa!
- 
+  
 Atualmente sou estudante de Desenvolvimento Web Full-Stack na Trybe, onde venho obtendo experiência em projetos, utilizando tecnologias de desenvolvimento web como: Git | GitHub | HTML | CSS | JavaScript | Jest | React Testing Library | React | Redux | Context API | React Hooks | Node.js | TypeScript, além das metodologias ágeis que são extremamente importantes no dia a dia.</p>
 <br>
                                                                                                                                      
