@@ -5,7 +5,9 @@
 </div>
 <p>Olá, me chamo Pedro Barbosa!
  
-Atualmente sou estudante de Desenvolvimento Web Full-Stack na Trybe, onde venho obtendo experiência em projetos, utilizando tecnologias de desenvolvimento web como: Git, GitHub, HTML, CSS, JavaScript, Jest, React Testing Library, React, Redux, Context API, React Hooks além das metodologias Ágeis.</p>
+Olá, me chamo Pedro Barbosa!
+ 
+Atualmente sou estudante de Desenvolvimento Web Full-Stack na Trybe, onde venho obtendo experiência em projetos, utilizando tecnologias de desenvolvimento web como: Git | GitHub | HTML | CSS | JavaScript | Jest | React Testing Library | React | Redux | Context API | React Hooks | Node.js | TypeScript, além das metodologias ágeis que são extremamente importantes no dia a dia.</p>
 <br>
                                                                                                                                      
  <hr>
@@ -24,6 +26,9 @@ Atualmente sou estudante de Desenvolvimento Web Full-Stack na Trybe, onde venho 
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Pedro-jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
  <img align="center" alt="Pedro-react" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
+ <img align="center" alt="Pedro-docker" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/919/919853.png">
+ <img align="center" alt="Pedro-mySQL" height="40" width="40" src="https://img.icons8.com/color/512/my-sql.png">
+ <img align="center" alt="Pedro-TS" height="40" width="40" src="https://img.icons8.com/fluency/512/typescript.png">
 </div>
   
 ##  
