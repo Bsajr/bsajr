@@ -30,6 +30,8 @@ Atualmente sou estudante de Desenvolvimento Web Full-Stack na Trybe, onde venho 
 </div>
   
 ##  
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bsajr&bg_color=0d1117&color=7989fb&line=919191&point=f2f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <!--  REDES SOCIAIS -->
 <div align="center">
