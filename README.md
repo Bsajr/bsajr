@@ -1,9 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?&type=waving&color=12285F&height=100&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=12285F&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Pedro+Barbosa;Bem+vindo+ao+meu+perfil+🙋🏻‍♂️)](https://git.io/typing-svg)
 
-
-<p>Olá, me chamo Pedro Barbosa!
-  
-Atualmente sou estudante de Desenvolvimento Web Full-Stack na Trybe, onde venho obtendo experiência em projetos, utilizando tecnologias de desenvolvimento web como: Git | GitHub | HTML | CSS | JavaScript | Jest | React Testing Library | React | Redux | Context API | React Hooks | Node.js | TypeScript, além das metodologias ágeis que são extremamente importantes no dia a dia.</p>
+<p>Apaixonado por tecnologia, design e marketing buscando sempre aprimorar meus conhecimentos aprendidos durante a minha trajetória e utilizá-los gerando soluções para facilitar a vida das pessoas.</p>
 <br>
                                                                                                                                      
  <hr>
@@ -29,7 +28,7 @@ Atualmente sou estudante de Desenvolvimento Web Full-Stack na Trybe, onde venho 
   
 ##  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bsajr&bg_color=0d1117&color=c5c5c9&line=104211&point=e5bdbd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bsajr&bg_color=0d1117&color=445597&line=1c1c1c&point=cad8ca&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <!--  REDES SOCIAIS -->
 <div align="center">
