@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?&type=waving&color=12285F&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?&type=waving&color=fffafa&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=12285F&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Pedro+Barbosa;Bem+vindo+ao+meu+perfil+🙋🏻‍♂️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffafa&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Pedro+Barbosa;Bem+vindo+ao+meu+perfil+🙋🏻‍♂️)](https://git.io/typing-svg)
 
 <p>Apaixonado por tecnologia, design e marketing buscando sempre aprimorar meus conhecimentos aprendidos durante a minha trajetória e utilizá-los gerando soluções para facilitar a vida das pessoas.</p>
 <br>
