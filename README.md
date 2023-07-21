@@ -39,5 +39,5 @@
  ![](https://visitor-badge.glitch.me/badge?page_id=bsajr)
  
 <div align="center">
-  <img alt="foto-capa" height="100%" width="100%" src= "https://github.com/Bsajr/bsajr/assets/86358350/db8717b5-874c-4960-ae74-140a10bf27cd">
+  <img alt="foto-capa" height="100%" width="100%" src= "https://github.com/Bsajr/bsajr/assets/86358350/f071115b-1e60-4765-859f-c377d76b48f8">
 </div>
