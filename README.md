@@ -13,16 +13,87 @@
   
 <!--  LINGUAGENS -->
   
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Pedro-jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
- <img align="center" alt="Pedro-react" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
- <img align="center" alt="Pedro-docker" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/919/919853.png">
- <img align="center" alt="Pedro-mySQL" height="40" width="40" src="https://img.icons8.com/color/512/my-sql.png">
- <img align="center" alt="Pedro-TS" height="40" width="40" src="https://img.icons8.com/fluency/512/typescript.png">
+<div align="center">
+    <h2> Tecnologias 🖥️ e Ferramentas ⚙️ </h2>
 </div>
+
+<table align="center" width="700px">
+    <tr>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=bash" />
+            </a>
+            <p>Bash</p>
+        </td>
+            <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=git" />
+            </a>
+            <p>Git</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=github" />
+            </a>
+            <p>Github</p>
+        </td>
+         <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=html" />
+            </a>
+            <p>HTML</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=css" />
+            </a>
+            <p>CSS</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=python" />
+            </a>
+            <p>Pyhton</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=react" />
+            </a>
+            <p>React</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=js" />
+            </a>
+            <p>JavaScript</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=nodejs" />
+            </a>
+            <p>Node.js</p>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=ts" />
+            </a>
+            <p>TypeScript</p>
+        </td>
+        <td align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=jest" width="50"/>
+            </a>
+            <p>Jest</p>
+        </td>
+        <td align="center">
+            <a href="https://socket.io/">
+                <img src="https://socket.io/images/logo.svg" width="50"/>
+            </a>
+            <p>Socket.io</p>
+        </td>
+    </tr>
+</table>
   
 ##  
  
