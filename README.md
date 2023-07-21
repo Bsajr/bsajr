@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?&type=waving&color=fffafa&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?&type=waving&color=201BEB&height=100&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffafa&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Pedro+Barbosa;Bem+vindo+ao+meu+perfil+🙋🏻‍♂️)](https://git.io/typing-svg)
                                                                                                                                 
@@ -25,19 +25,22 @@
 </div>
   
 ##  
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bsajr&bg_color=0d1117&color=445597&line=1c1c1c&point=cad8ca&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <!--  REDES SOCIAIS -->
 <div align="center">
-  <a href="https://www.instagram.com/pedro_ojr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fariaspedro05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedrobarbosa05/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/pedro_ojr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=C43A99" target="_blank"></a>
+  <a href = "mailto:fariaspedro05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EB1B1B" target="_blank"></a>
+  
+  <a href="https://www.linkedin.com/in/pedrobarbosa05/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=201BEB" target="_blank">
+  </a> 
+
+  <a href="https://drive.google.com/drive/folders/1Wpi6MH8IDw3MLhaPkdj88uvSvuoqdVZo?usp=drive_link" target="_blank">
+    <img width="140px" src="https://github.com/Bsajr/bsajr/assets/86358350/3b64d276-579f-4965-a285-ff043db160b5">
+  </a> 
   </div> 
   
- 
- ![](https://visitor-badge.glitch.me/badge?page_id=bsajr)
- 
+<!-- FOOTER -->
 <div align="center">
-  <img alt="foto-capa" height="100%" width="100%" src= "https://github.com/Bsajr/bsajr/assets/86358350/f071115b-1e60-4765-859f-c377d76b48f8">
+  <img height="100%" width="100%" src= "https://github.com/Bsajr/bsajr/assets/86358350/f071115b-1e60-4765-859f-c377d76b48f8">
 </div>
