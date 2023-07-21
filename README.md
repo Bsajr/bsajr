@@ -32,11 +32,9 @@
   <a href = "mailto:fariaspedro05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EB1B1B" target="_blank"></a>
   
   <a href="https://www.linkedin.com/in/pedrobarbosa05/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=201BEB" target="_blank">
-  </a> 
+     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=201BEB" target="_blank"></a> 
 
-  <a href="https://drive.google.com/drive/folders/1Wpi6MH8IDw3MLhaPkdj88uvSvuoqdVZo?usp=drive_link" target="_blank"><img width="140px" src="https://github.com/Bsajr/bsajr/assets/86358350/3b64d276-579f-4965-a285-ff043db160b5" target="_blank">
-  </a> 
+  <a href="https://drive.google.com/drive/folders/1Wpi6MH8IDw3MLhaPkdj88uvSvuoqdVZo?usp=sharing" target="_blank"><img src="" width="140px" target="_blank"></a> 
   </div> 
   
 <!-- FOOTER -->
