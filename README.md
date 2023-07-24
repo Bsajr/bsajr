@@ -142,15 +142,6 @@
   
   <a href="https://www.linkedin.com/in/pedrobarbosa05/" target="_blank">
      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=201BEB" target="_blank"></a>
-  
-  <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-		<img width="140px"src="https://komarev.com/ghpvc/?username=Bsajr">
-	  </a>
-	  <a href="https://github.com/Bsajr?tab=followers"><img width="150px" src="https://img.shields.io/github/followers/Bsajr?label=Followers&style=social" 			alt="GitHub Badge"></a>
-  </div> 
-
-  <div align="center">
-	  
   </div> 
   
 <!-- FOOTER -->
