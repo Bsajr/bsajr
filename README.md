@@ -1,11 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?&type=waving&color=201BEB&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffafa&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Pedro+Barbosa;Bem+vindo+ao+meu+perfil+🙋🏻‍♂️)](https://git.io/typing-svg)
-                                                                                                                                
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffafa&size=35&center=true&vCenter=true&width=1200&lines=Olá,+me+chamo+Pedro+Barbosa;Bem+vindo+ao+meu+perfil+🙋🏻‍♂️)](https://git.io/typing-svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?&type=waving&color=201BEB&height=100&section=footer"/>                                                                                                                               
  <hr>
 <div align="center">
 <a href="https://github.com/Bsajr">
-  <img align="center" width="360px" src="https://github-readme-stats.vercel.app/api?username=Bsajr&show_icons=true&title_color=AC36E0&bg_color=22272e&icon_color=201BEB&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=false" />
+  <img align="center" width="360px" src="https://github-readme-stats.vercel.app/api?username=Bsajr&show_icons=true&title_color=AC36E0&bg_color=22272e&icon_color=201BEB&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true" />
 </a> 
   
 <a href="https://github.com/Bsajr">
