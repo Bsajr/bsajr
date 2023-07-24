@@ -3,15 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffafa&size=35&center=true&vCenter=true&width=1200&lines=Olá,+me+chamo+Pedro+Barbosa;Bem+vindo+ao+meu+perfil+🙋🏻‍♂️)](https://git.io/typing-svg)
 <img width=100% src="https://capsule-render.vercel.app/api?&type=waving&color=201BEB&height=100&section=footer"/>                                                                                                                               
  <hr>
-<div align="center">
-<a href="https://github.com/Bsajr">
-  <img align="center" width="360px" src="https://github-readme-stats.vercel.app/api?username=Bsajr&show_icons=true&title_color=AC36E0&bg_color=22272e&icon_color=201BEB&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true" />
-</a> 
-  
-<a href="https://github.com/Bsajr">
-  <img align="center" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bsajr&bg_color=22272e&icon_color=0ba2be&title_color=AC36E0&hide_border=true&layout=compact&theme=dark" alt="Pedro Barbosa stats" />
-</a>  
 </div>
+
+<div align="center">
+  <img width=390 src="https://streak-stats.demolab.com/?user=Bsajr&count_private=true&react&theme=dark&border_radiu=fffff" alt="streal stats"/>
+  <img width=357 src="https://github-readme-stats-salesp07.vercel.app/api?username=Bsajr&count_private=true&show_icons=github&theme=dark&rank_icon=true&border_darius=0" alt="readme stats"/>
+<br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Bsajr&hide=HTML&langs_count_8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+
+  </div>
 
   <br>
   
