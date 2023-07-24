@@ -4,9 +4,13 @@
                                                                                                                                 
  <hr>
 <div align="center">
-  <a href="https://github.com/Bsajr">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bsajr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bsajr&layout=compact&langs_count=7&theme=dark"/>
+<a href="https://github.com/Bsajr">
+  <img align="center" width="360px" src="https://github-readme-stats.vercel.app/api?username=Bsajr&show_icons=true&title_color=AC36E0&bg_color=22272e&icon_color=201BEB&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=false" />
+</a> 
+  
+<a href="https://github.com/Bsajr">
+  <img align="center" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bsajr&bg_color=22272e&icon_color=0ba2be&title_color=AC36E0&hide_border=true&layout=compact&theme=dark" alt="Pedro Barbosa stats" />
+</a>  
 </div>
 
   <br>
@@ -14,7 +18,7 @@
 <!--  FERRAMENTAS -->
   
 <div align="center">
-    <h2> Ferramentas 💡 </h2>
+    <h3> Tools 💡 </h3>
 </div>
 
 <table align="center" width="700px">
@@ -61,7 +65,7 @@
 <!--  TECNOLOGIAS -->
 
 <div align="center">
-    <h2> Tecnologias 💻  </h2>
+    <h3> Technologies 💻  </h3>
 </div>
 
 <table align="center" width="700px">
@@ -131,6 +135,16 @@
         </td>
     </tr>
 </table>
+
+<hr>
+
+<!-- My Graphic Contribution -->
+<details  align="center">
+    <summary><h4>My Graphic Contribution 📈</h4></summary>
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bsajr&bg_color=161b22&color=7989fb&line=919191&point=f2f2f2&area=false&hide_border=true&width="100px")](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
 
  
 <!--  REDES SOCIAIS -->
