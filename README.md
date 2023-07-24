@@ -1,7 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?&type=waving&color=201BEB&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?&type=waving&color=201BEB&height=150&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffafa&size=35&center=true&vCenter=true&width=1200&lines=Olá,+me+chamo+Pedro+Barbosa;Bem+vindo+ao+meu+perfil+🙋🏻‍♂️)](https://git.io/typing-svg)
-
 <img width=100% src="https://capsule-render.vercel.app/api?&type=waving&color=201BEB&height=100&section=footer"/>                                                                                                                               
  <hr>
 <div align="center">
